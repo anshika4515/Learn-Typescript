@@ -1,0 +1,4 @@
+Type Script is all about TypeSafety
+
+What TypeScript does?
+-> static checking 
