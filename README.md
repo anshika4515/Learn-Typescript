@@ -1,3 +1,6 @@
+
+## TypeScript is all about typesafety
+
 ### To create tsconfig.json in typescript
 
 ```
